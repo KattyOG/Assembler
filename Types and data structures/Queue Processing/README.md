@@ -10,7 +10,7 @@
 #### Задание:
 Система массового обслуживания состоит из обслуживающего аппарата
 (ОА) и двух очередей заявок двух типов.
-[<img src="https://github.com/KattyOG/University/blob/master/Types%20and%20data%20structures/Queue%20Processing/GqpUm2z4dz0.jpg">]
+<img src="https://github.com/KattyOG/University/blob/master/Types%20and%20data%20structures/Queue%20Processing/GqpUm2z4dz0.jpg">
 Заявки 1-го и 2-го типов поступают в "хвосты" своих очередей по
 случайному закону с интервалами времени Т1 и Т2, равномерно
 распределенными от 1 до 5 и от 0 до 3 единиц времени (е.в.) соответственно.В ОА они поступают из "головы" очереди по одной и обслуживаются также
